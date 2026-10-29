@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Interna</string>
+    <string name="app_tagline">One World. Every Language.</string>
+    <string name="ai_assistant_name">Interna AI</string>
+    <string name="cd_app_logo">Interna emblem logo</string>
+    <string name="cd_hero_banner">Interna global language network illustration</string>
+    <string name="cd_onboarding_art">Interna AI multilingual harmony illustration</string>
+    <string name="cd_voice_input">Speak with microphone</string>
+    <string name="cd_play_audio">Listen to pronunciation</string>
+    <string name="cd_send_message">Send message</string>
+    <string name="cd_developer_console">Developer Console administration</string>
+    <string name="cd_online_status">Network connectivity status</string>
+    <string name="disclaimer_pronunciation_estimate">Automated Pronunciation Estimate: Feedback is generated using speech recognition and AI acoustic heuristics, not an official or certified linguistic assessment.</string>
+    <string name="disclaimer_level_non_certified">Self-Paced Learning Progress: Proficiency levels and scores reflect in-app study milestones and are not officially certified language exam credentials.</string>
+    <string name="disclaimer_offline_ai">Cloud AI Unavailable Offline: Interna AI cloud conversations require an active internet connection because no local on-device LLM is installed. Offline lessons, saved dictionary entries, flashcards, and quizzes remain fully accessible.</string>
+</resources>

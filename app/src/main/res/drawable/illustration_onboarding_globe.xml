@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="640dp"
+    android:height="320dp"
+    android:viewportWidth="640"
+    android:viewportHeight="320">
+    <path android:pathData="M0,0h640v320h-640z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="0"
+                android:startY="0"
+                android:endX="640"
+                android:endY="320"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#070C18" />
+                <item android:offset="0.55" android:color="#0F1B36" />
+                <item android:offset="1.0" android:color="#1E1B4B" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <!-- Luminous orbital rings -->
+    <path
+        android:strokeColor="#3338BDF8"
+        android:strokeWidth="2"
+        android:pathData="M320,40 A120,120 0 1,1 319.9,40 Z" />
+    <path
+        android:strokeColor="#55818CF8"
+        android:strokeWidth="2"
+        android:pathData="M320,75 A85,85 0 1,1 319.9,75 Z" />
+    <path
+        android:fillColor="#2238BDF8"
+        android:pathData="M320,105 A55,55 0 1,1 319.9,105 Z" />
+    <!-- Acoustic waveform & global connection nodes -->
+    <path
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="3"
+        android:pathData="M80,160 Q160,90 240,160 T400,160 T560,160" />
+    <path
+        android:strokeColor="#A78BFA"
+        android:strokeWidth="2.5"
+        android:pathData="M80,160 Q160,230 240,160 T400,160 T560,160" />
+    <path android:fillColor="#38BDF8" android:pathData="M200,125 A6,6 0 1,1 199.9,125 Z" />
+    <path android:fillColor="#E0F2FE" android:pathData="M320,152 A8,8 0 1,1 319.9,152 Z" />
+    <path android:fillColor="#A78BFA" android:pathData="M440,125 A6,6 0 1,1 439.9,125 Z" />
+</vector>

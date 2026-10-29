@@ -1,0 +1,6 @@
+{
+  "name": "Interna",
+  "description": "One World. Every Language. Learn, practice, translate, pronounce, and understand languages with Interna AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
